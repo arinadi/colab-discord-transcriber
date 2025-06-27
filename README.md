@@ -1,9 +1,3 @@
-Of course. As a senior developer, I have analyzed the provided Python script and updated the `README.md` to reflect its new features, improved architecture, and configuration options with meticulous detail.
-
-Here is the updated `README.md`:
-
-***
-
 # Colab Discord Transcriber
 
 > A robust Discord bot that leverages OpenAI's Whisper to transcribe audio and video files, with an intelligent idle-shutdown system, optimized for Google Colab.
